@@ -1,2 +1,1 @@
-# bestbuyweb
-DBMS GROUP PROJECT
+# bestbuyweb DBMS GROUP PROJECT

@@ -1,2 +1,2 @@
 # BestBuy Online Store
-Group Project for Data Base Management Systems
+Group Project for Database Management Systems

@@ -1,4 +1,4 @@
 # BestBuy E-Commerce Platform.
 Group Project for Database Management Systems.
-# Techstack
+# TechStack
 PHP, MySQL, CSS, HTML, JavaScript and BootStrap.
